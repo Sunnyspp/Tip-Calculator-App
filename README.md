@@ -1,6 +1,6 @@
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+"#TIP CALCULATOR:"
 
-TIP CALCULATOR:
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
     
 The aim of this program is to help you practise the following concept in python:
 How to declare variables the right way.
