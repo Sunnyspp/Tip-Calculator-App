@@ -1,4 +1,4 @@
-#TIP CALCULATOR:
+****TIP CALCULATOR:
 
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
     
