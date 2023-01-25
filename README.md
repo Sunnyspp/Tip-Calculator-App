@@ -1,3 +1,4 @@
+![](http://i.imgur.com/OUkLi.gif)
 TIP CALCULATOR:
     
 The aim of this program is to help you practise the following concept in python:
