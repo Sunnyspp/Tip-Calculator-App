@@ -1,4 +1,5 @@
-![](http://i.imgur.com/OUkLi.gif)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 TIP CALCULATOR:
     
 The aim of this program is to help you practise the following concept in python:
